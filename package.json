@@ -1,0 +1,32 @@
+{
+  "name": "wpjs",
+  "version": "1.0.0",
+  "description": "Wordpress Workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JFarand/wp_theme_workflow_012017.git"
+  },
+  "keywords": [
+    "Wordpress",
+    "node",
+    "CSS",
+    "Composer",
+    "JS"
+  ],
+  "author": "OWL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JFarand/wp_theme_workflow_012017/issues"
+  },
+  "homepage": "https://github.com/JFarand/wp_theme_workflow_012017#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^2.0.0"
+  }
+}
